@@ -1,6 +1,8 @@
 ## Optiboot Bootloader for Arduino and Atmel AVR ##
 
-![http://optiboot.googlecode.com/files/optiboot.png](http://optiboot.googlecode.com/files/optiboot.png)
+Forked from [Optiboot/optiboot](https://github.com/Optiboot/optiboot) and modified to support the *uino boards.  Currently just the *uino-1284p based on the ATmega1284p.
+
+---
 
 Optiboot is an easy to install upgrade to the Arduino bootloader within Arduino boards. It provides the following features:
 
